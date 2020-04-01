@@ -1,5 +1,5 @@
 # Overview
-This repository contains data and scripts of the manuscript "Genetic variation reveals Individual-level climate tracking across the full annual cycle of a migratory bird"
+This repository contains data and scripts for the manuscript "Genetic variation reveals Individual-level climate tracking across the full annual cycle of a migratory bird"
 
 # Description of datasets
 Breeding_96snps(.loc,.ped,.map) - *PED formated genotypes from 96 assayed SNPs for all breeding individuals (including RAD sequenced*  
