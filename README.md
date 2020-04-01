@@ -17,4 +17,5 @@ Rubias.R - *performs population assignments in rubias*
 OriGen.R - *creates probability surfaces for wintering individuals*  
 Morphology.R - *test for morphological correlates of precipitation with the Wiedenfeld 1991 data*  
 ClimateMatchingAnalysis.R - *test for correlation between breeding and wintering climate*  
+FormatBBSdata.R - *extract yellow warbler counts from BBS data and format for JAGS input*  
 
