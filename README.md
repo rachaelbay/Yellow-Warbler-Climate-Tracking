@@ -10,7 +10,9 @@ Breeding_157snps.str - *STRUCTURE input with all breeding individuals assayed at
 
 # Description of scripts
 Format.R - *filters and formats genotypes from Fluidigm assays for downstream analysis*
+
 MakeMapStacks.R - *takes Q-matrix from STRUCTURE and creates spatial layers*
+
 NewMap.R - *Plots layers from MakeMapStacks.R*
 SNPrelate.R - *performs PCA*
 Rubias.R - *performs population assignments in rubias*
