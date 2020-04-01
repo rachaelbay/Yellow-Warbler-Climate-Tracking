@@ -3,10 +3,10 @@ library(dplyr)
 library(rgdal)
 
 ####Run OriGen with Breeding birds as training set wintering birds as unknowns
-Real <- ConvertUnknownPEDData("Breeding_12.19.18","Breeding_12.19.18.loc","Unknowns_12.19.18")
+Real <- ConvertUnknownPEDData("Breeding_96snps","Breeding_96snps.loc","Unknowns_96snps")
 Origen <- FitOriGenModelFindUnknowns(Real$DataArray,Real$SampleCoordinates,Real$UnknownData,MaxGridLength=70,RhoParameter=10)
 PlotUnknownHeatMap(Origen,UnknownNumber=2)
-unkMeta <- read.delim("Unknowns_12.19.18.loc",header=T)
+unkMeta <- read.delim("Unknowns_96snps.loc",header=T)
 
 #####Clip output grid using range shapefile
 range <- readOGR("../data/shapefile/",layer="YWAR") # This is the shapefile retrieved from NatureServe
