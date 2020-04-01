@@ -1,0 +1,476 @@
+"ID"	"State"	"Town"	"Stage"	"longitude"	"latitude"
+"03N5167"	"AZ"	"Cibola"	"Migrant"	-114.7	33.4
+"03N5636"	"AZ"	"Cibola"	"Migrant"	-114.7	33.4
+"04N9359"	"AZ"	"Cibola"	"Migrant"	-114.7	33.4
+"05N6870"	"AZ"	"Cibola"	"Migrant"	-114.7	33.4
+"05N6871"	"AZ"	"Cibola"	"Migrant"	-114.7	33.4
+"05N6872"	"AZ"	"Cibola"	"Migrant"	-114.7	33.4
+"05N6873"	"AZ"	"Cibola"	"Migrant"	-114.7	33.4
+"05N6874"	"AZ"	"Cibola"	"Migrant"	-114.7	33.4
+"05N6875"	"AZ"	"Cibola"	"Migrant"	-114.7	33.4
+"05N6876"	"AZ"	"Cibola"	"Migrant"	-114.7	33.4
+"05N6877"	"AZ"	"Cibola"	"Migrant"	-114.7	33.4
+"05N6878"	"AZ"	"Cibola"	"Migrant"	-114.7	33.4
+"05N6879"	"AZ"	"Cibola"	"Migrant"	-114.7	33.4
+"05N6880"	"AZ"	"Cibola"	"Migrant"	-114.7	33.4
+"05N7301"	"AZ"	"Cibola"	"Migrant"	-114.7	33.4
+"05N7302"	"AZ"	"Cibola"	"Migrant"	-114.7	33.4
+"06N36757"	"AZ"	"Cibola"	"Migrant"	-114.7	33.4
+"06N36765"	"AZ"	"Cibola"	"Migrant"	-114.7	33.4
+"06N36767"	"AZ"	"Cibola"	"Migrant"	-114.7	33.4
+"06N36770"	"AZ"	"Cibola"	"Migrant"	-114.7	33.4
+"06N36771"	"AZ"	"Cibola"	"Migrant"	-114.7	33.4
+"06N36772"	"AZ"	"Cibola"	"Migrant"	-114.7	33.4
+"07N13039"	"AZ"	"Cibola"	"Migrant"	-114.7	33.4
+"07N13040"	"AZ"	"Cibola"	"Migrant"	-114.7	33.4
+"07N13041"	"AZ"	"Cibola"	"Migrant"	-114.7	33.4
+"07N13042"	"AZ"	"Cibola"	"Migrant"	-114.7	33.4
+"07N13047"	"AZ"	"Cibola"	"Migrant"	-114.7	33.4
+"07N13048"	"AZ"	"Cibola"	"Migrant"	-114.7	33.4
+"07N13049"	"AZ"	"Cibola"	"Migrant"	-114.7	33.4
+"07N13050"	"AZ"	"Cibola"	"Migrant"	-114.7	33.4
+"07N13051"	"AZ"	"Cibola"	"Migrant"	-114.7	33.4
+"07N13052"	"AZ"	"Cibola"	"Migrant"	-114.7	33.4
+"07N13053"	"AZ"	"Cibola"	"Migrant"	-114.7	33.4
+"07N13054"	"AZ"	"Cibola"	"Migrant"	-114.7	33.4
+"07N13055"	"AZ"	"Cibola"	"Migrant"	-114.7	33.4
+"07N13318"	"AZ"	"Cibola"	"Migrant"	-114.7	33.4
+"07N13551"	"AZ"	"Cibola"	"Migrant"	-114.7	33.4
+"07N13552"	"AZ"	"Cibola"	"Migrant"	-114.7	33.4
+"07N13554"	"AZ"	"Cibola"	"Migrant"	-114.7	33.4
+"07N13555"	"AZ"	"Cibola"	"Migrant"	-114.7	33.4
+"07N16806"	"NJ"	"Layton"	"Migrant"	-74.4	41.1
+"07N16819"	"NJ"	"Layton"	"Migrant"	-96.62	33.2
+"07N16821"	"NJ"	"Layton"	"Migrant"	-96.62	33.2
+"07N16836"	"NJ"	"Layton"	"Migrant"	-96.62	33.2
+"07N16857"	"NJ"	"Layton"	"Migrant"	-96.62	33.2
+"07N16865"	"NJ"	"Layton"	"Migrant"	-96.62	33.2
+"07N16868"	"NJ"	"Layton"	"Migrant"	-96.62	33.2
+"07N16870"	"NJ"	"Layton"	"Migrant"	-96.62	33.2
+"07N16877"	"NJ"	"Layton"	"Migrant"	-96.62	33.2
+"07N16878"	"NJ"	"Layton"	"Migrant"	-96.62	33.2
+"07N16881"	"NJ"	"Layton"	"Migrant"	-96.62	33.2
+"07N16888"	"NJ"	"Layton"	"Migrant"	-96.62	33.2
+"07N17300"	"NJ"	"Layton"	"Migrant"	-96.62	33.2
+"06N13117"	"TX"	"Fairview"	"Migrant"	-96.6	33.2
+"06N4385"	"TX"	"Fairview"	"Migrant"	-96.6	33.2
+"06N4386"	"TX"	"Fairview"	"Migrant"	-96.6	33.2
+"13N0141"	"TX"	"Fairview"	"Migrant"	-96.6	33.2
+"00FM1261"	"AL"	"Fort Morgan"	"Migrant"	-87.91	30.25
+"12FM0001"	"AL"	"Fort Morgan"	"Migrant"	-87.91	30.25
+"12FM0002"	"AL"	"Fort Morgan"	"Migrant"	-87.91	30.25
+"08N02329"	"TX"	"Fairview"	"Migrant"	-96.6	33.2
+"11030"	"Jalisco"	"Chamela"	"Wintering"	-105.08	19.53
+"11031"	"Jalisco"	"Chamela"	"Wintering"	-105.08	19.53
+"11032"	"Jalisco"	"Chamela"	"Wintering"	-105.08	19.53
+"11033"	"Jalisco"	"Chamela"	"Wintering"	-105.08	19.53
+"11034"	"Jalisco"	"Chamela"	"Wintering"	-105.08	19.53
+"11035"	"Jalisco"	"Chamela"	"Wintering"	-105.08	19.53
+"11036"	"Jalisco"	"Chamela"	"Wintering"	-105.08	19.53
+"11046"	"Merida"	"El Quince"	"Wintering"	-71.77	8.58
+"11047"	"Merida"	"El Quince"	"Wintering"	-71.77	8.58
+"11048"	"Merida"	"El Quince"	"Wintering"	-71.77	8.58
+"11049"	"Merida"	"El Quince"	"Wintering"	-71.77	8.58
+"11050"	"Merida"	"El Quince"	"Wintering"	-71.77	8.58
+"11051"	"Merida"	"El Quince"	"Wintering"	-71.77	8.58
+"11052"	"Merida"	"El Quince"	"Wintering"	-71.77	8.58
+"11053"	"Merida"	"El Quince"	"Wintering"	-71.77	8.58
+"11054"	"Merida"	"El Quince"	"Wintering"	-71.77	8.58
+"11055"	"Merida"	"El Quince"	"Wintering"	-71.77	8.58
+"11056"	"Merida"	"El Quince"	"Wintering"	-71.77	8.58
+"11057"	"Merida"	"El Quince"	"Wintering"	-71.77	8.58
+"11058"	"Merida"	"El Quince"	"Wintering"	-71.77	8.58
+"11059"	"Merida"	"El Quince"	"Wintering"	-71.77	8.58
+"11060"	"Merida"	"El Quince"	"Wintering"	-71.77	8.58
+"11789"	"Jalisco"	"Chamela"	"Wintering"	-105.08	19.53
+"11790"	"Jalisco"	"Chamela"	"Wintering"	-105.08	19.53
+"11791"	"Jalisco"	"Chamela"	"Wintering"	-105.08	19.53
+"11792"	"Jalisco"	"Chamela"	"Wintering"	-105.08	19.53
+"11794"	"Baja California Sur"	"San_Jos__Del Cabo"	"Wintering"	-109.68	23.05
+"11795"	"Baja California Sur"	"San_Jos__Del Cabo"	"Wintering"	-109.68	23.05
+"11796"	"Oaxaca"	"Chila"	"Wintering"	-96.65	15.95
+"11797"	"Oaxaca"	"Chila"	"Wintering"	-96.65	15.95
+"11798"	"Oaxaca"	"Manialtpec"	"Wintering"	-96.75	17.08
+"11799"	"Oaxaca"	"Oaxaca"	"Wintering"	-96.65	15.95
+"11800"	"Oaxaca"	"Chila"	"Wintering"	-96.65	15.95
+"11801"	"Oaxaca"	"Hidalgo"	"Wintering"	-96.65	15.95
+"11803"	"Oaxaca"	"Hidalgo"	"Wintering"	-96.65	15.95
+"12869"	"Yucatan"	"Celestun"	"Wintering"	-90.4	20.87
+"12870"	"Yucatan"	"Celestun"	"Wintering"	-90.4	20.87
+"12871"	"Yucatan"	"Celestun"	"Wintering"	-90.4	20.87
+"12873"	"Yucatan"	"Celestun"	"Wintering"	-90.4	20.87
+"13081"	"Veracruz"	"Salinas"	"Wintering"	-95.17	18.5
+"13082"	"Veracruz"	"Salinas"	"Wintering"	-95.17	18.5
+"13083"	"Veracruz"	"Salinas"	"Wintering"	-95.17	18.5
+"13084"	"Veracruz"	"Salinas"	"Wintering"	-95.17	18.5
+"13085"	"Veracruz"	"Salinas"	"Wintering"	-95.17	18.5
+"13086"	"Veracruz"	"Salinas"	"Wintering"	-95.17	18.5
+"13087"	"Veracruz"	"Salinas"	"Wintering"	-95.17	18.5
+"13088"	"Veracruz"	"Salinas"	"Wintering"	-95.17	18.5
+"13089"	"Veracruz"	"Salinas"	"Wintering"	-95.17	18.5
+"13091"	"Veracruz"	"Salinas"	"Wintering"	-95.17	18.5
+"13092"	"Veracruz"	"Salinas"	"Wintering"	-95.17	18.5
+"13093"	"Veracruz"	"Salinas"	"Wintering"	-95.17	18.5
+"13094"	"Veracruz"	"Salinas"	"Wintering"	-95.17	18.5
+"13095"	"Veracruz"	"Salinas"	"Wintering"	-95.17	18.5
+"13096"	"Veracruz"	"Salinas"	"Wintering"	-95.17	18.5
+"13097"	"Veracruz"	"Salinas"	"Wintering"	-95.17	18.5
+"13098"	"Veracruz"	"Salinas"	"Wintering"	-95.17	18.5
+"13100"	"Veracruz"	"Salinas"	"Wintering"	-95.17	18.5
+"11011"	"Mitchoacan"	"West Michoacan"	"Wintering"	-101.11	19.7
+"11012"	"Mitchoacan"	"West Michoacan"	"Wintering"	-101.11	19.7
+"11013"	"Mitchoacan"	"West Michoacan"	"Wintering"	-101.11	19.7
+"11014"	"Mitchoacan"	"West Michoacan"	"Wintering"	-101.11	19.7
+"11015"	"Mitchoacan"	"West Michoacan"	"Wintering"	-101.11	19.7
+"11016"	"Mitchoacan"	"West Michoacan"	"Wintering"	-101.11	19.7
+"11017"	"Mitchoacan"	"West Michoacan"	"Wintering"	-101.11	19.7
+"11018"	"Mitchoacan"	"West Michoacan"	"Wintering"	-101.11	19.7
+"11019"	"Mitchoacan"	"West Michoacan"	"Wintering"	-101.11	19.7
+"11020"	"Mitchoacan"	"West Michoacan"	"Wintering"	-101.11	19.7
+"11021"	"Mitchoacan"	"West Michoacan"	"Wintering"	-101.11	19.7
+"11022"	"Mitchoacan"	"West Michoacan"	"Wintering"	-101.11	19.7
+"11023"	"Mitchoacan"	"West Michoacan"	"Wintering"	-101.11	19.7
+"11024"	"Mitchoacan"	"West Michoacan"	"Wintering"	-101.11	19.7
+"11061"	"Merida"	"El Quince"	"Wintering"	-71.77	8.58
+"11062"	"Merida"	"El Quince"	"Wintering"	-71.77	8.58
+"11063"	"Merida"	"El Quince"	"Wintering"	-71.77	8.58
+"11064"	"Merida"	"El Quince"	"Wintering"	-71.77	8.58
+"11065"	"Merida"	"El Quince"	"Wintering"	-71.77	8.58
+"11066"	"Merida"	"El Quince"	"Wintering"	-71.77	8.58
+"11793"	"Jalisco"	"Chamela"	"Wintering"	-105.08	19.53
+"07N50568"	"Guanacaste"	"Liberia"	"Wintering"	-85.67	10.78
+"07N50569"	"Guanacaste"	"Liberia"	"Wintering"	-85.67	10.78
+"07N50570"	"Guanacaste"	"Liberia"	"Wintering"	-85.67	10.78
+"07N50609"	"Guanacaste"	"Liberia"	"Wintering"	-85.67	10.78
+"07N50612"	"Guanacaste"	"Liberia"	"Wintering"	-85.67	10.78
+"07N50613"	"Guanacaste"	"Liberia"	"Wintering"	-85.67	10.78
+"07N50784"	"Guanacaste"	"Liberia"	"Wintering"	-85.67	10.78
+"07N50806"	"Guanacaste"	"Liberia"	"Wintering"	-85.67	10.78
+"07N50815"	"Guanacaste"	"Liberia"	"Wintering"	-85.67	10.78
+"08N37461"	"Guanacaste"	"Liberia"	"Wintering"	-85.67	10.78
+"08N37462"	"Guanacaste"	"Liberia"	"Wintering"	-85.67	10.78
+"08N37463"	"Guanacaste"	"Liberia"	"Wintering"	-85.67	10.78
+"08N37587"	"Guanacaste"	"Tamarindo"	"Wintering"	-85.83	10.32
+"09N2290"	"Guanacaste"	"Tamarindo"	"Wintering"	-85.83	10.32
+"09N2291"	"Guanacaste"	"Tamarindo"	"Wintering"	-85.83	10.32
+"09N2302"	"Guanacaste"	"Tamarindo"	"Wintering"	-85.83	10.32
+"09N2303"	"Guanacaste"	"Tamarindo"	"Wintering"	-85.83	10.32
+"09N2348"	"Guanacaste"	"Liberia"	"Wintering"	-85.67	10.78
+"09N2359"	"Guanacaste"	"Liberia"	"Wintering"	-85.67	10.78
+"09N2360"	"Guanacaste"	"Liberia"	"Wintering"	-85.67	10.78
+"09N2373"	"Guanacaste"	"Tamarindo"	"Wintering"	-85.83	10.32
+"09N2374"	"Guanacaste"	"Tamarindo"	"Wintering"	-85.83	10.32
+"09N2405"	"Guanacaste"	"Tamarindo"	"Wintering"	-85.83	10.32
+"09N2418"	"Guanacaste"	"Tamarindo"	"Wintering"	-85.83	10.32
+"09N2419"	"Guanacaste"	"Tamarindo"	"Wintering"	-85.83	10.32
+"09N2421"	"Guanacaste"	"Tamarindo"	"Wintering"	-85.83	10.32
+"09N2437"	"Guanacaste"	"Tamarindo"	"Wintering"	-85.83	10.32
+"09N2440"	"Guanacaste"	"Tamarindo"	"Wintering"	-85.83	10.32
+"09N2481"	"Guanacaste"	"Tamarindo"	"Wintering"	-85.83	10.32
+"09N2486"	"Guanacaste"	"Tamarindo"	"Wintering"	-85.83	10.32
+"09N2488"	"Guanacaste"	"Tamarindo"	"Wintering"	-85.83	10.32
+"09N2508"	"Guanacaste"	"Tamarindo"	"Wintering"	-85.83	10.32
+"09N2523"	"Guanacaste"	"Tamarindo"	"Wintering"	-85.83	10.32
+"09N2556"	"Guanacaste"	"Liberia"	"Wintering"	-85.67	10.78
+"09N2559"	"Guanacaste"	"Liberia"	"Wintering"	-85.67	10.78
+"2015_222_ISEGS"	"USA"	"CA"	"Migrant"	115.47	35.57
+"2015_301_ISEGS"	"USA"	"CA"	"Migrant"	115.47	35.57
+"2015_379_ISEGS"	"USA"	"CA"	"Migrant"	115.47	35.57
+"2015_436_ISEGS"	"USA"	"CA"	"Migrant"	115.47	35.57
+"2015_446_ISEGS"	"USA"	"CA"	"Migrant"	115.47	35.57
+"2015_450_ISEGS"	"USA"	"CA"	"Migrant"	115.47	35.57
+"2015_480_ISEGS"	"USA"	"CA"	"Migrant"	115.47	35.57
+"2015_483_ISEGS"	"USA"	"CA"	"Migrant"	115.47	35.57
+"2015_494_ISEGS"	"USA"	"CA"	"Migrant"	115.47	35.57
+"2015_517_ISEGS"	"USA"	"CA"	"Migrant"	115.47	35.57
+"2015_544_ISEGS"	"USA"	"CA"	"Migrant"	115.47	35.57
+"2015_546_ISEGS"	"USA"	"CA"	"Migrant"	115.47	35.57
+"2015_577_ISEGS"	"USA"	"CA"	"Migrant"	115.47	35.57
+"2015_621_ISEGS"	"USA"	"CA"	"Migrant"	115.47	35.57
+"2015_640_ISEGS"	"USA"	"CA"	"Migrant"	115.47	35.57
+"2015_701_ISEGS"	"USA"	"CA"	"Migrant"	115.47	35.57
+"2015_789_ISEGS"	"USA"	"CA"	"Migrant"	115.47	35.57
+"2016_010_ISEGS"	"USA"	"CA"	"Migrant"	115.47	35.57
+"GEN_0218"	"USA"	"CA"	"Migrant"	114.9948	33.665
+"GEN_0241"	"USA"	"CA"	"Migrant"	114.9948	33.665
+"GEN_0277"	"USA"	"CA"	"Migrant"	114.9948	33.665
+"12FM0003"	"AL"	"Fort Morgan"	"Migrant"	-87.91	30.25
+"12FM0004"	"AL"	"Fort Morgan"	"Migrant"	-87.91	30.25
+"12FM0005"	"AL"	"Fort Morgan"	"Migrant"	-87.91	30.25
+"12FM0006"	"AL"	"Fort Morgan"	"Migrant"	-87.91	30.25
+"12FM0007"	"AL"	"Fort Morgan"	"Migrant"	-87.91	30.25
+"12FM0008"	"AL"	"Fort Morgan"	"Migrant"	-87.91	30.25
+"12FM0009"	"AL"	"Fort Morgan"	"Migrant"	-87.91	30.25
+"12FM0010"	"AL"	"Fort Morgan"	"Migrant"	-87.91	30.25
+"12FM0011"	"AL"	"Fort Morgan"	"Migrant"	-87.91	30.25
+"12FM0012"	"AL"	"Fort Morgan"	"Migrant"	-87.91	30.25
+"12FM0013"	"AL"	"Fort Morgan"	"Migrant"	-87.91	30.25
+"12FM0014"	"AL"	"Fort Morgan"	"Migrant"	-87.91	30.25
+"12FM0015"	"AL"	"Fort Morgan"	"Migrant"	-87.91	30.25
+"12FM0016"	"AL"	"Fort Morgan"	"Migrant"	-87.91	30.25
+"12FM0017"	"AL"	"Fort Morgan"	"Migrant"	-87.91	30.25
+"12FM0018"	"AL"	"Fort Morgan"	"Migrant"	-87.91	30.25
+"12FM0019"	"AL"	"Fort Morgan"	"Migrant"	-87.91	30.25
+"12FM0020"	"AL"	"Fort Morgan"	"Migrant"	-87.91	30.25
+"12FM0021"	"AL"	"Fort Morgan"	"Migrant"	-87.91	30.25
+"12FM0022"	"AL"	"Fort Morgan"	"Migrant"	-87.91	30.25
+"12FM0023"	"AL"	"Fort Morgan"	"Migrant"	-87.91	30.25
+"12FM0024"	"AL"	"Fort Morgan"	"Migrant"	-87.91	30.25
+"12FM0025"	"AL"	"Fort Morgan"	"Migrant"	-87.91	30.25
+"12FM0026"	"AL"	"Fort Morgan"	"Migrant"	-87.91	30.25
+"12FM0027"	"AL"	"Fort Morgan"	"Migrant"	-87.91	30.25
+"12FM0028"	"AL"	"Fort Morgan"	"Migrant"	-87.91	30.25
+"12FM0029"	"AL"	"Fort Morgan"	"Migrant"	-87.91	30.25
+"12FM0030"	"AL"	"Fort Morgan"	"Migrant"	-87.91	30.25
+"12FM0031"	"AL"	"Fort Morgan"	"Migrant"	-87.91	30.25
+"12FM0032"	"AL"	"Fort Morgan"	"Migrant"	-87.91	30.25
+"12FM0033"	"AL"	"Fort Morgan"	"Migrant"	-87.91	30.25
+"12FM0034"	"AL"	"Fort Morgan"	"Migrant"	-87.91	30.25
+"12FM0035"	"AL"	"Fort Morgan"	"Migrant"	-87.91	30.25
+"12FM0036"	"AL"	"Fort Morgan"	"Migrant"	-87.91	30.25
+"12FM0037"	"AL"	"Fort Morgan"	"Migrant"	-87.91	30.25
+"12FM0038"	"AL"	"Fort Morgan"	"Migrant"	-87.91	30.25
+"12FM0039"	"AL"	"Fort Morgan"	"Migrant"	-87.91	30.25
+"12FM0040"	"AL"	"Fort Morgan"	"Migrant"	-87.91	30.25
+"12FM0041"	"AL"	"Fort Morgan"	"Migrant"	-87.91	30.25
+"12FM0042"	"AL"	"Fort Morgan"	"Migrant"	-87.91	30.25
+"12FM0043"	"AL"	"Fort Morgan"	"Migrant"	-87.91	30.25
+"13FM0001"	"AL"	"Fort Morgan"	"Migrant"	-87.91	30.25
+"13FM0002"	"AL"	"Fort Morgan"	"Migrant"	-87.91	30.25
+"13FM0003"	"AL"	"Fort Morgan"	"Migrant"	-87.91	30.25
+"13FM0004"	"AL"	"Fort Morgan"	"Migrant"	-87.91	30.25
+"13FM0005"	"AL"	"Fort Morgan"	"Migrant"	-87.91	30.25
+"13FM0006"	"AL"	"Fort Morgan"	"Migrant"	-87.91	30.25
+"13FM0008"	"AL"	"Fort Morgan"	"Migrant"	-87.91	30.25
+"13FM0009"	"AL"	"Fort Morgan"	"Migrant"	-87.91	30.25
+"13FM0010"	"AL"	"Fort Morgan"	"Migrant"	-87.91	30.25
+"13FM0011"	"AL"	"Fort Morgan"	"Migrant"	-87.91	30.25
+"13FM0012"	"AL"	"Fort Morgan"	"Migrant"	-87.91	30.25
+"13FM0013"	"AL"	"Fort Morgan"	"Migrant"	-87.91	30.25
+"13FM0014"	"AL"	"Fort Morgan"	"Migrant"	-87.91	30.25
+"13FM0015"	"AL"	"Fort Morgan"	"Migrant"	-87.91	30.25
+"13FM0016"	"AL"	"Fort Morgan"	"Migrant"	-87.91	30.25
+"13FM0017"	"AL"	"Fort Morgan"	"Migrant"	-87.91	30.25
+"13FM0018"	"AL"	"Fort Morgan"	"Migrant"	-87.91	30.25
+"13FM0019"	"AL"	"Fort Morgan"	"Migrant"	-87.91	30.25
+"13FM0020"	"AL"	"Fort Morgan"	"Migrant"	-87.91	30.25
+"13FM0021"	"AL"	"Fort Morgan"	"Migrant"	-87.91	30.25
+"13FM0022"	"AL"	"Fort Morgan"	"Migrant"	-87.91	30.25
+"13FM0023"	"AL"	"Fort Morgan"	"Migrant"	-87.91	30.25
+"13FM0024"	"AL"	"Fort Morgan"	"Migrant"	-87.91	30.25
+"13FM0025"	"AL"	"Fort Morgan"	"Migrant"	-87.91	30.25
+"13FM0026"	"AL"	"Fort Morgan"	"Migrant"	-87.91	30.25
+"13FM0027"	"AL"	"Fort Morgan"	"Migrant"	-87.91	30.25
+"13FM0028"	"AL"	"Fort Morgan"	"Migrant"	-87.91	30.25
+"13FM0029"	"AL"	"Fort Morgan"	"Migrant"	-87.91	30.25
+"13FM0030"	"AL"	"Fort Morgan"	"Migrant"	-87.91	30.25
+"13FM0031"	"AL"	"Fort Morgan"	"Migrant"	-87.91	30.25
+"13FM0032"	"AL"	"Fort Morgan"	"Migrant"	-87.91	30.25
+"13FM0033"	"AL"	"Fort Morgan"	"Migrant"	-87.91	30.25
+"13FM0034"	"AL"	"Fort Morgan"	"Migrant"	-87.91	30.25
+"13FM0035"	"AL"	"Fort Morgan"	"Migrant"	-87.91	30.25
+"13FM0036"	"AL"	"Fort Morgan"	"Migrant"	-87.91	30.25
+"13FM0040"	"AL"	"Fort Morgan"	"Migrant"	-87.91	30.25
+"06N32826"	"OR"	"Klamath"	"Migrant"	-122.07	42.71
+"08N1380"	"OR"	"Klamath"	"Migrant"	-121.85	42.66
+"08N1381"	"OR"	"Klamath"	"Migrant"	-121.85	42.66
+"08N1382"	"OR"	"Klamath"	"Migrant"	-121.85	42.66
+"08N1383"	"OR"	"Klamath"	"Migrant"	-121.85	42.66
+"07N66005"	"CR"	"Paisley"	"Wintering"	-82.95	8.75
+"07N66013"	"CR"	"Paisley"	"Wintering"	-82.95	8.75
+"07N65252"	"CR"	"Paisley"	"Wintering"	-82.95	8.75
+"07N66024"	"CR"	"Paisley"	"Wintering"	-82.95	8.75
+"07N66025"	"CR"	"Paisley"	"Wintering"	-82.95	8.75
+"07N66086"	"CR"	"Paisley"	"Wintering"	-82.95	8.75
+"07N66089"	"CR"	"Paisley"	"Wintering"	-82.95	8.75
+"09N0731"	"CR"	"Paisley"	"Wintering"	-82.95	8.75
+"09N0732"	"CR"	"Paisley"	"Wintering"	-82.95	8.75
+"09N0733"	"CR"	"Paisley"	"Wintering"	-82.95	8.75
+"04N8955"	"Guanacaste"	"Guardia"	"Wintering"	-85.62	10.6
+"04N8956"	"Guanacaste"	"Guardia"	"Wintering"	-85.62	10.6
+"04N8957"	"Guanacaste"	"Guardia"	"Wintering"	-85.62	10.6
+"04N8958"	"Guanacaste"	"Guardia"	"Wintering"	-85.62	10.6
+"04N8959"	"Guanacaste"	"Guardia"	"Wintering"	-85.62	10.6
+"04N8960"	"Guanacaste"	"Guardia"	"Wintering"	-85.62	10.6
+"04N8961"	"Guanacaste"	"Guardia"	"Wintering"	-85.62	10.6
+"04N8962"	"Guanacaste"	"Guardia"	"Wintering"	-85.62	10.6
+"04N8964"	"Guanacaste"	"Guardia"	"Wintering"	-85.62	10.6
+"04N8965"	"Guanacaste"	"Guardia"	"Wintering"	-85.62	10.6
+"04N8966"	"Guanacaste"	"Guardia"	"Wintering"	-85.62	10.6
+"04N8967"	"Guanacaste"	"Guardia"	"Wintering"	-85.62	10.6
+"04N8980"	"Guanacaste"	"Guardia"	"Wintering"	-85.62	10.6
+"04N8981"	"Guanacaste"	"Guardia"	"Wintering"	-85.62	10.6
+"04N8982"	"Guanacaste"	"Guardia"	"Wintering"	-85.62	10.6
+"09N2196"	"Guanacaste"	"Guardia"	"Wintering"	-85.62	10.62
+"09N2259"	"Guanacaste"	"Guardia"	"Wintering"	-85.62	10.6
+"09N2260"	"Guanacaste"	"Guardia"	"Wintering"	-85.62	10.6
+"09N2280"	"Guanacaste"	"Guardia"	"Wintering"	-85.62	10.6
+"10N17408"	"Guanacaste"	"Guardia"	"Wintering"	-85.62	10.6
+"10N17409"	"Guanacaste"	"Guardia"	"Wintering"	-85.62	10.6
+"10N17410"	"Guanacaste"	"Guardia"	"Wintering"	-85.62	10.6
+"10N17411"	"Guanacaste"	"Guardia"	"Wintering"	-85.62	10.6
+"10N17412"	"Guanacaste"	"Guardia"	"Wintering"	-85.62	10.6
+"10N17413"	"Guanacaste"	"Guardia"	"Wintering"	-85.62	10.6
+"10N17414"	"Guanacaste"	"Guardia"	"Wintering"	-85.62	10.6
+"10N17415"	"Guanacaste"	"Guardia"	"Wintering"	-85.62	10.6
+"07N54940"	"Sonsonate"	"Izalco"	"Wintering"	-89.65	13.8
+"07N54989"	"Sonsonate"	"Izalco"	"Wintering"	-89.65	13.8
+"07N55003"	"Sonsonate"	"Izalco"	"Wintering"	-89.65	13.8
+"09N9884"	"Sonsonate"	"Izalco"	"Wintering"	-89.65	13.8
+"09N9885"	"Sonsonate"	"Izalco"	"Wintering"	-89.65	13.8
+"09N9886"	"Sonsonate"	"Izalco"	"Wintering"	-89.65	13.8
+"09N9887"	"Sonsonate"	"Izalco"	"Wintering"	-89.65	13.8
+"09N9908"	"Sonsonate"	"Izalco"	"Wintering"	-89.65	13.8
+"07N55026"	"Santa Ana"	"Metapan"	"Wintering"	-89.36	14.4
+"07N55054"	"Santa Ana"	"Metapan"	"Wintering"	-89.36	14.4
+"07N55169"	"Santa Ana"	"Metapan"	"Wintering"	-89.36	14.4
+"09N9906"	"Santa Ana"	"Metapan"	"Wintering"	-89.36	14.4
+"07N51509"	"Ahuachapan"	"San Miguelito"	"Wintering"	-89.94	13.8
+"02N0291"	"Granada"	"Granada"	"Wintering"	-86.01	11.8
+"08N33114"	"Jinotega"	"Turrialba"	"Wintering"	-86.05	13.2
+"08N33156"	"Jinotega"	"Turrialba"	"Wintering"	-86.05	13.2
+"08N33176"	"Jinotega"	"Turrialba"	"Wintering"	-86.05	13.2
+"08N33181"	"Jinotega"	"Turrialba"	"Wintering"	-86.05	13.2
+"08N33185"	"Jinotega"	"Turrialba"	"Wintering"	-86.05	13.2
+"09N9888"	"Jinotega"	"Turrialba"	"Wintering"	-86.05	13.2
+"09N9894"	"Jinotega"	"Turrialba"	"Wintering"	-86.05	13.2
+"09N9895"	"Jinotega"	"Turrialba"	"Wintering"	-86.05	13.2
+"09N9896"	"Jinotega"	"Turrialba"	"Wintering"	-86.05	13.2
+"09N9897"	"Jinotega"	"Turrialba"	"Wintering"	-86.05	13.2
+"09N9898"	"Jinotega"	"Turrialba"	"Wintering"	-86.05	13.2
+"09N9899"	"Jinotega"	"Turrialba"	"Wintering"	-86.05	13.2
+"09N9900"	"Jinotega"	"Turrialba"	"Wintering"	-86.05	13.2
+"09N9901"	"Jinotega"	"Turrialba"	"Wintering"	-86.05	13.2
+"09N9902"	"Jinotega"	"Turrialba"	"Wintering"	-86.05	13.2
+"09N9903"	"Jinotega"	"Turrialba"	"Wintering"	-86.05	13.2
+"09N9904"	"Jinotega"	"Turrialba"	"Wintering"	-86.05	13.2
+"09N9905"	"Jinotega"	"Turrialba"	"Wintering"	-86.05	13.2
+"07N64717"	"CR"	"Santa Teresa"	"Wintering"	-82.92	8.81
+"07N65432"	"CR"	"Santa Teresa"	"Wintering"	-82.92	8.81
+"07N65464"	"CR"	"Santa Teresa"	"Wintering"	-82.92	8.81
+"07N65468"	"CR"	"Santa Teresa"	"Wintering"	-82.92	8.81
+"07N65469"	"CR"	"Santa Teresa"	"Wintering"	-82.92	8.81
+"07N65471"	"CR"	"Santa Teresa"	"Wintering"	-82.92	8.81
+"07N65492"	"CR"	"Santa Teresa"	"Wintering"	-82.92	8.81
+"07N65780"	"CR"	"Santa Teresa"	"Wintering"	-82.92	8.81
+"07N65897"	"CR"	"Santa Teresa"	"Wintering"	-82.92	8.81
+"07N65915"	"CR"	"Santa Teresa"	"Wintering"	-82.92	8.81
+"07N66070"	"CR"	"Santa Teresa"	"Wintering"	-82.92	8.81
+"07N66081"	"CR"	"Santa Teresa"	"Wintering"	-82.92	8.81
+"09N0725"	"CR"	"Santa Teresa"	"Wintering"	-82.92	8.81
+"09N0726"	"CR"	"Santa Teresa"	"Wintering"	-82.92	8.81
+"09N0727"	"CR"	"Santa Teresa"	"Wintering"	-82.92	8.81
+"09N10096"	"CR"	"Santa Teresa"	"Wintering"	-82.92	8.81
+"09N10128"	"CR"	"Santa Teresa"	"Wintering"	-82.92	8.81
+"09N10153"	"CR"	"Santa Teresa"	"Wintering"	-82.92	8.81
+"09N10409"	"CR"	"Santa Teresa"	"Wintering"	-82.92	8.81
+"09N10845"	"CR"	"Santa Teresa"	"Wintering"	-82.92	8.81
+"06N4388"	"TX"	"Fairview"	"Migrant"	-96.6	33.2
+"07N17666"	"TX"	"Fairview"	"Migrant"	-96.6	33.2
+"10N11696"	"TX"	"Fairview"	"Migrant"	-96.6	33.2
+"11N0055"	"TX"	"Fairview"	"Migrant"	-96.6	33.2
+"12N1880"	"TX"	"Fairview"	"Migrant"	-96.6	33.2
+"12N1881"	"TX"	"Fairview"	"Migrant"	-96.6	33.2
+"12N1893"	"TX"	"Fairview"	"Migrant"	-96.6	33.2
+"12N1894"	"TX"	"Fairview"	"Migrant"	-96.6	33.2
+"12N1895"	"TX"	"Fairview"	"Migrant"	-96.6	33.2
+"13N0111"	"TX"	"Fairview"	"Migrant"	-96.6	33.2
+"13N0140"	"TX"	"Fairview"	"Migrant"	-96.6	33.2
+"96N2314"	"ID"	"Willow Creek"	"Migrant"	-111.99	43.55
+"96N2315"	"ID"	"Willow Creek"	"Migrant"	-111.99	43.55
+"96N2316"	"ID"	"Willow Creek"	"Migrant"	-111.99	43.55
+"96N2320"	"ID"	"Willow Creek"	"Migrant"	-111.99	43.55
+"05N8691"	"OR"	"Klamath"	"Migrant"	-122.1	42.5
+"05N8692"	"OR"	"Klamath"	"Migrant"	-122.1	42.5
+"05N8694"	"OR"	"Klamath"	"Migrant"	-122.1	42.5
+"05N8695"	"OR"	"Klamath"	"Migrant"	-122.1	42.5
+"05N8696"	"OR"	"Klamath"	"Migrant"	-122.1	42.5
+"05N8697"	"OR"	"Klamath"	"Migrant"	-122.1	42.5
+"05N8698"	"OR"	"Klamath"	"Migrant"	-122.1	42.5
+"05N8699"	"OR"	"Klamath"	"Migrant"	-122.1	42.5
+"05N8700"	"OR"	"Klamath"	"Migrant"	-122.1	42.5
+"05N8713"	"OR"	"Klamath"	"Migrant"	-121.9	42.7
+"05N8714"	"OR"	"Klamath"	"Migrant"	-121.9	42.7
+"06N0538"	"OR"	"Klamath"	"Migrant"	-121.9	42.7
+"06N0540"	"OR"	"Klamath"	"Migrant"	-121.9	42.7
+"06N10422"	"OR"	"Klamath"	"Migrant"	-121.9	42.7
+"06N10423"	"OR"	"Klamath"	"Migrant"	-121.9	42.7
+"06N10426"	"OR"	"Klamath"	"Migrant"	-121.9	42.7
+"06N10474"	"OR"	"Klamath"	"Migrant"	-122.1	42.7
+"06N10594"	"CA"	"Big Sur"	"Migrant"	-121.8	36.3
+"06N10596"	"CA"	"Big Sur"	"Migrant"	-121.8	36.3
+"06N10602"	"CA"	"Big Sur"	"Migrant"	-121.8	36.3
+"06N10606"	"CA"	"Big Sur"	"Migrant"	-121.8	36.3
+"06N10608"	"CA"	"Big Sur"	"Migrant"	-121.8	36.3
+"06N10617"	"CA"	"Big Sur"	"Migrant"	-121.8	36.3
+"06N10622"	"CA"	"Big Sur"	"Migrant"	-121.8	36.3
+"06N10623"	"CA"	"Big Sur"	"Migrant"	-121.8	36.3
+"06N10633"	"CA"	"Big Sur"	"Migrant"	-121.8	36.3
+"06N10635"	"CA"	"Big Sur"	"Migrant"	-121.8	36.3
+"06N10647"	"CA"	"Big Sur"	"Migrant"	-121.8	36.3
+"06N10673"	"CA"	"Big Sur"	"Migrant"	-121.8	36.3
+"06N10674"	"CA"	"Big Sur"	"Migrant"	-121.8	36.3
+"06N10687"	"CA"	"Big Sur"	"Migrant"	-121.8	36.3
+"06N10689"	"CA"	"Big Sur"	"Migrant"	-121.8	36.3
+"06N10722"	"CA"	"Big Sur"	"Migrant"	-121.8	36.3
+"06N10723"	"CA"	"Big Sur"	"Migrant"	-121.8	36.3
+"06N10724"	"CA"	"Big Sur"	"Migrant"	-121.8	36.3
+"06N10728"	"CA"	"Big Sur"	"Migrant"	-121.8	36.3
+"06N10732"	"CA"	"Big Sur"	"Migrant"	-121.8	36.3
+"06N10747"	"CA"	"Big Sur"	"Migrant"	-121.8	36.3
+"06N10749"	"CA"	"Big Sur"	"Migrant"	-121.8	36.3
+"96N0205"	"CA"	"Big Sur"	"Migrant"	-121.8	36.3
+"06N1859"	"OR"	"Klamath"	"Migrant"	-121.9	42.7
+"06N1860"	"OR"	"Klamath"	"Migrant"	-121.9	42.7
+"06N1967"	"OR"	"Klamath"	"Migrant"	-121.9	42.7
+"06N2028"	"OR"	"Klamath"	"Migrant"	-121.9	42.7
+"06N2142"	"OR"	"Klamath"	"Migrant"	-121.9	42.7
+"06N2625"	"OR"	"Klamath"	"Migrant"	-121.9	42.7
+"06N2626"	"OR"	"Klamath"	"Migrant"	-121.9	42.7
+"06N2823"	"OR"	"Klamath"	"Migrant"	-121.9	42.7
+"06N2957"	"OR"	"Klamath"	"Migrant"	-121.9	42.7
+"06N2958"	"OR"	"Klamath"	"Migrant"	-121.9	42.7
+"06N3084"	"OR"	"Klamath"	"Migrant"	-121.9	42.7
+"06N3255"	"OR"	"Klamath"	"Migrant"	-121.9	42.7
+"06N3263"	"OR"	"Klamath"	"Migrant"	-121.9	42.7
+"06N3632"	"NV"	"Ruby Valley"	"Migrant"	-115.5	40.2
+"06N3633"	"NV"	"Ruby Valley"	"Migrant"	-115.5	40.2
+"06N3634"	"NV"	"Ruby Valley"	"Migrant"	-115.5	40.2
+"06N3635"	"NV"	"Ruby Valley"	"Migrant"	-115.5	40.2
+"06N3636"	"NV"	"Ruby Valley"	"Migrant"	-115.5	40.2
+"06N3637"	"NV"	"Ruby Valley"	"Migrant"	-115.5	40.2
+"06N3638"	"NV"	"Ruby Valley"	"Migrant"	-115.5	40.2
+"06N3639"	"NV"	"Ruby Valley"	"Migrant"	-115.5	40.2
+"06N3640"	"NV"	"Ruby Valley"	"Migrant"	-115.5	40.2
+"06N3641"	"NV"	"Ruby Valley"	"Migrant"	-115.5	40.2
+"06N3642"	"NV"	"Ruby Valley"	"Migrant"	-115.5	40.2
+"06N4387"	"TX"	"Fairview"	"Migrant"	-96.6	33.2
+"09N10176"	"Sonsonate"	"Izalco"	"Wintering"	-89.65	13.8
+"15N1118"	"NM"	"Los Alamos"	"Migrant"	-106.3	35.8
+"15N1119"	"NM"	"Los Alamos"	"Migrant"	-106.3	35.8
+"15N1120"	"NM"	"Los Alamos"	"Migrant"	-106.3	35.8
+"15N1121"	"NM"	"Los Alamos"	"Migrant"	-106.3	35.8
+"15N1122"	"NM"	"Los Alamos"	"Migrant"	-106.3	35.8
+"15N1123"	"NM"	"Los Alamos"	"Migrant"	-106.3	35.8
+"15N1124"	"NM"	"Los Alamos"	"Migrant"	-106.3	35.8
+"15N1125"	"NM"	"Los Alamos"	"Migrant"	-106.3	35.8
+"15N1126"	"NM"	"Los Alamos"	"Migrant"	-106.3	35.8
+"2014-404"	"USA"	"CA"	"Migrant"	115.47	35.57
+"2014-534"	"USA"	"CA"	"Migrant"	115.47	35.57
+"2014-572"	"USA"	"CA"	"Migrant"	115.47	35.57
+"2014-875"	"USA"	"CA"	"Migrant"	115.47	35.57
+"2015-178"	"USA"	"CA"	"Migrant"	115.47	35.57
+"2015-219"	"USA"	"CA"	"Migrant"	115.47	35.57
+"2015-351"	"USA"	"CA"	"Migrant"	115.47	35.57
+"2015-352"	"USA"	"CA"	"Migrant"	115.47	35.57
+"2015-363"	"USA"	"CA"	"Migrant"	115.47	35.57
+"2015-383"	"USA"	"CA"	"Migrant"	115.47	35.57
+"2015-387"	"USA"	"CA"	"Migrant"	115.47	35.57
+"2015-389"	"USA"	"CA"	"Migrant"	115.47	35.57
+"2015-400"	"USA"	"CA"	"Migrant"	115.47	35.57
+"2015-407"	"USA"	"CA"	"Migrant"	115.47	35.57
+"2015-417"	"USA"	"CA"	"Migrant"	115.47	35.57
+"2015-461"	"USA"	"CA"	"Migrant"	115.47	35.57
+"2015-478"	"USA"	"CA"	"Migrant"	115.47	35.57
+"2015-480"	"USA"	"CA"	"Migrant"	115.47	35.57
+"2015-844"	"USA"	"CA"	"Migrant"	115.47	35.57
