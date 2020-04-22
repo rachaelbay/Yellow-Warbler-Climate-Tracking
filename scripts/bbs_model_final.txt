@@ -1,0 +1,93 @@
+
+model{  #### counts and overdispersion effects  ######
+
+	for( k in 1 : ncounts ) { # k
+		log(lambda[k]) <- strata[strat[k]] + # strata intercept
+							beta1[strat[k]] * (year[k] - fixedyear) + # trend through time
+							beta2[strat[k]] * precip[k] + # Precip effect, 1 year lag (at route)
+							beta3[strat[k]] * precip2[k] + # Precip effect, 2 year lag (at route)
+							obs[obser[k]] + eta*firstyr[k] + # Observer effect and inexperienced effect
+							yeareffect[year[k],strat[k]] # random year effeect
+
+		count[k] ~ dnegbin(p[k], r)
+		p[k] <- r/(r+lambda[k])
+		zfcount[k] ~ dnegbin(p[k], r)
+		err[k] <- pow(count[k]-lambda[k],2)/lambda[k]
+		ferr[k] <- pow(zfcount[k]-lambda[k],2)/lambda[k]
+	} # /k
+
+	r ~ dunif(0,50)
+	gof <- sum(err[1:ncounts])
+	fgof <- sum(ferr[1:ncounts])
+	diffgof <- gof-fgof
+	posdiff <- step(diffgof)
+
+	#---------------------------------------------------------#
+	#### observer effects  ######
+	tau.obs <- pow(sigma.obs, -2)
+	sigma.obs ~ dunif(0,10)
+
+	for( i in 1 : nobservers ) {
+		obs[i] ~ dnorm(0.0, tau.obs)
+	}
+
+	# First time observer effect
+	eta ~ dnorm(0,0.01)
+
+	#----------------------------------#
+
+    #### stratum effects  ######
+
+    for(s in 1:nstrata ) { # strata
+	    beta1[s] ~ dnorm(0,0.01)
+	    beta2[s] ~ dnorm(0,0.01)
+	    beta3[s] ~ dnorm(0,0.01)
+		strata[s] ~ dnorm(0,0.01)
+	    tauyear[s] <- pow(sdyear[s], -2)
+		sdyear[s] ~ dunif(0,10)
+
+    #### stratum specific year effects  ######	
+	    for(y in 1:nyears) { #yr
+		    yeareffect[y,s] ~ dnorm(0, tauyear[s])
+	    } #/yr
+    } #/strata
+
+    # #-------------------------------------------------#
+
+    totareaweight <- sum(areaweight[1:nstrata]) 
+
+    # #### summary statistics  ######
+	for( i in 1 : nstrata ) {
+		for( t in 1 : nyears ) {
+			n[i,t] <- nonzeroweight[i]*
+						exp(
+						strata[i] + 
+						beta1[i] * (t - fixedyear) + 
+						beta2[i] * strat.precip[t,i] + # mean precip across straum
+						beta3[i] * strat.precip2[t,i] +  # mean 2yr lag precip across straum
+						0.5*sigma.obs*sigma.obs +
+						yeareffect[t,i])						
+
+			N[i,t] <- areaweight[i]*n[i,t]/totareaweight
+		} #/yr
+	} #/strata
+
+	for( i in 1 : nstrata ) {
+		B[i] <- pow(n[i,nyears]/n[i,1],1/(nyears-1))
+	}
+
+	for( t in 1 : nyears ) {
+		CompIndex[t] <- sum(N[1:nstrata,t])
+	}
+
+	### SOTB summary is from 1968 on ###
+
+    for( t in 1 : nyears ) {
+		CompSob[t] <- CompIndex[t]/CompIndex[3]
+    }
+
+	Bbar <- pow(CompIndex[nyears]/CompIndex[1],1/(nyears-1))
+
+        #-------------------------------------------------#
+
+    } # /model
