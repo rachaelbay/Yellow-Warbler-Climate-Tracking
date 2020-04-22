@@ -4,7 +4,7 @@ library(Pstat)
 library(nlme)
 library(tidyverse)
 
-breed <- read.csv("MorphologyPrecip.csv")
+breed <- read.csv("Morphology.csv")
 breed <- breed[!is.na(breed$K5cur) & !is.na(breed$TARSUS),]
 breed <- breed[-57,] # remove bird with unknown precip
 morph <- breed[,13:21] # just the morphology data
