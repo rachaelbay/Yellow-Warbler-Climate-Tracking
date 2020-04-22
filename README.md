@@ -18,4 +18,7 @@ OriGen.R - *creates probability surfaces for wintering individuals*
 Morphology.R - *test for morphological correlates of precipitation with the Wiedenfeld 1991 data*  
 ClimateMatchingAnalysis.R - *test for correlation between breeding and wintering climate*  
 FormatBBSdata.R - *extract yellow warbler counts from BBS data and format for JAGS input*  
+make.jags.data.R - *adding cliamte to BBS data for JAGS input*
+run_jags_final.R - *run JAGS model for abundance/climate associations*
+bbs_model_final.txt - *JAGS model*
 
