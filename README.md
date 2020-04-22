@@ -5,6 +5,7 @@ This repository contains data and scripts for the manuscript "Genetic variation 
 Breeding_96snps(.loc,.ped,.map) - *PED formated genotypes from 96 assayed SNPs for all breeding individuals (including RAD sequenced*  
 Unknowns_96snps(.loc,.ped,.map) - *PED formated genotypes from 96 assayed SNPs for wintering and migrating birds*  
 Breeding_157snps.str - *STRUCTURE input with all breeding individuals assayed at 157 snps*  
+Morphology.csv - *Subset of morphological data from Wiedenfeld 1991 (The Auk)*
 
 
 
